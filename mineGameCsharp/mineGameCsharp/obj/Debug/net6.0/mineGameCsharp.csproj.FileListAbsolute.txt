@@ -1,0 +1,15 @@
+C:\Users\gameprogram\Desktop\mineGameCsharp\mineGameCsharp\bin\Debug\net6.0\mineGameCsharp.exe
+C:\Users\gameprogram\Desktop\mineGameCsharp\mineGameCsharp\bin\Debug\net6.0\mineGameCsharp.deps.json
+C:\Users\gameprogram\Desktop\mineGameCsharp\mineGameCsharp\bin\Debug\net6.0\mineGameCsharp.runtimeconfig.json
+C:\Users\gameprogram\Desktop\mineGameCsharp\mineGameCsharp\bin\Debug\net6.0\mineGameCsharp.dll
+C:\Users\gameprogram\Desktop\mineGameCsharp\mineGameCsharp\bin\Debug\net6.0\mineGameCsharp.pdb
+C:\Users\gameprogram\Desktop\mineGameCsharp\mineGameCsharp\obj\Debug\net6.0\mineGameCsharp.csproj.AssemblyReference.cache
+C:\Users\gameprogram\Desktop\mineGameCsharp\mineGameCsharp\obj\Debug\net6.0\mineGameCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gameprogram\Desktop\mineGameCsharp\mineGameCsharp\obj\Debug\net6.0\mineGameCsharp.AssemblyInfoInputs.cache
+C:\Users\gameprogram\Desktop\mineGameCsharp\mineGameCsharp\obj\Debug\net6.0\mineGameCsharp.AssemblyInfo.cs
+C:\Users\gameprogram\Desktop\mineGameCsharp\mineGameCsharp\obj\Debug\net6.0\mineGameCsharp.csproj.CoreCompileInputs.cache
+C:\Users\gameprogram\Desktop\mineGameCsharp\mineGameCsharp\obj\Debug\net6.0\mineGameCsharp.dll
+C:\Users\gameprogram\Desktop\mineGameCsharp\mineGameCsharp\obj\Debug\net6.0\refint\mineGameCsharp.dll
+C:\Users\gameprogram\Desktop\mineGameCsharp\mineGameCsharp\obj\Debug\net6.0\mineGameCsharp.pdb
+C:\Users\gameprogram\Desktop\mineGameCsharp\mineGameCsharp\obj\Debug\net6.0\mineGameCsharp.genruntimeconfig.cache
+C:\Users\gameprogram\Desktop\mineGameCsharp\mineGameCsharp\obj\Debug\net6.0\ref\mineGameCsharp.dll
