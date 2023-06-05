@@ -9,40 +9,6 @@ namespace mineGameCsharp
 {
     class Program
     {
-        //const int FIELD_HEIGHT = 10;
-        //const int FIELD_WIDTH = 10;
-        //const int FIELD_WALL = 1;
-        //const int FIELD_FLOOR = 1;
-        //const int FIELD_SPACE = 2;
-        //const int SQUARE = 20;
-
-        //int[,] field = new int[FIELD_HEIGHT, FIELD_WIDTH];
-        //static void Main(string[] args)
-        //{
-        //    for (int i = 0; i < FIELD_HEIGHT; i++)
-        //    {
-        //        {
-        //            Console.WriteLine("**********");
-        //        }
-
-        //    }
-        //    Console.WriteLine();
-        //}
-
-        //private void mainForm_Load(object sender, EventArgs e)
-        //{
-        //    // 壁と床を作る
-        //    for (int i = 0; i < field.GetLength(0); i++)
-        //    {
-        //        field[i, 0] = 8;    // 左壁
-        //        field[i, field.GetLength(1) - 1] = 8;   // 右壁
-        //    }
-        //    for (int i = 0; i < field.GetLength(1); i++)
-        //    {
-        //        field[field.GetLength(0) - 1, i] = 8;    // 床
-        //    }
-        //}
-
         static void Main(string[] args)
         {
             var mG = new Board();
